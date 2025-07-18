@@ -1,0 +1,6 @@
+--- Appraisal Report ---
+model.Employee Name: siddharth
+model.Employee ID: 655
+Performance Score: 96.5 / 100
+Appraisal Percentage: 15.0%
+Revised Salary: ₹9.2 LPA
