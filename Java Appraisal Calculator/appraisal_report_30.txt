@@ -1,0 +1,6 @@
+--- Appraisal Report ---
+model.Employee Name: jack
+model.Employee ID: 30
+Performance Score: 91.0 / 100
+Appraisal Percentage: 20.0%
+Revised Salary: ₹10.8 LPA

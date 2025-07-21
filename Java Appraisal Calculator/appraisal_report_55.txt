@@ -1,0 +1,6 @@
+--- Appraisal Report ---
+model.Employee Name: tanmay
+model.Employee ID: 55
+Performance Score: 79.0 / 100
+Appraisal Percentage: 0.0%
+Revised Salary: ₹12.0 LPA
