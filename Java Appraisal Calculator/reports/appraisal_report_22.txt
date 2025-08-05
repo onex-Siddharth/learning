@@ -1,0 +1,6 @@
+--- Appraisal Report ---
+Employee Name: jk
+Employee ID: 22
+Performance Score: 90.5 / 100
+Appraisal Percentage: 15.0%
+Revised Salary: ₹10.35 LPA
